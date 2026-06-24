@@ -2,7 +2,7 @@
 
 A machine learning-powered SMS spam detection system built with Python and Flask, achieving **97.58% accuracy** using Multinomial Naive Bayes.
 
-> Final Year Project — COMSATS University Islamabad, Wah Campus
+> Semester Project — COMSATS University Islamabad, Wah Campus
 > Eman Zahra & Uneeza Kamran | Supervisor: Dr. Sulma Rashid
 
 ---
